@@ -1,9 +1,7 @@
+Hello,
 We set an initial state inside the
  constructor or outside the constructor of a class based component. 
 We do not directly change or mutate the state 
 but we use the setState() method to reset to a new state. 
-. As you can see below in the state object we have 
-count with initial value 0. We can access the
- state object using this.state and the property name
 
 
